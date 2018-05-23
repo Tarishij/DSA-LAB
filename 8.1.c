@@ -1,4 +1,5 @@
 //Write a program of breadth first search for a binary search tree
+//(level order traversal of tree)
 
 #include <stdio.h>
 #include<stdlib.h>
